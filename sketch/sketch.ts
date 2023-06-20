@@ -1,3 +1,4 @@
+//You should not need to change anything in this file for the basic challenge.
 function setup() {
     createCanvas(windowWidth, windowHeight);
     noLoop();
